@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import '../screens/login.dart';
 import '../screens/splash.dart';
 import '../screens/AddProduct.dart';
-import '../screens/place_order.dart';
 import '../screens/payment.dart';
 import '../screens/successful.dart';
 import '../screens/review.dart';

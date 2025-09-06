@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import '../screens/Addproduct.dart';
-import '../screens/login.dart';
 import '../screens/setting.dart'; // Make sure you have this file created
 
 class HomePage extends StatefulWidget {
